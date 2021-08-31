@@ -4,6 +4,6 @@ I have got to know GitHub used for various purposes like we can track our ongoin
 I have experienced in writing the markdown file like here I have added the project details by adding the Title of the project as well as its contents In the **Readme.md** file by saving through the commit changes. Later for Creating as well as Publishing the Project in the GitHub pages I have gone through the settings then pages where we can choose to publish from a different branch or Folder. Also we can select the Theme to customize our sites look and feel.
 # Issues Faced during GitHub account creation and how Troubleshooting done.
 I have chosen the docs folder on a branch as publishing source and there is no docs folder in the root of my repository on that branch. I have solved it from **troubleshooting** the issues, by moving the docs folder back to the root of my repository on the branch chosen during publishing the source as docs sometimes will be get deleted accidentally.
-# Improvements to be made.
-The Issues / Discussion Threads can be better organized, as a Beginner faced difficulty in navigating to find the basic information during the discussions.
+# Improvements to be made. 
+The Issues / Discussion Threads can be better organized, so that beginner will not face difficulty in navigating to find the basic information during the Project discussions.
 
